@@ -1,6 +1,6 @@
 # MSSC-Former
 
-This repository contains the supported pytorch code and configuration files to reproduce of MSSCFormer.
+This repository contains the supported pytorch code and configuration files to reproduce of MSSC-Former.
 
 ![MSSC-Former](img/Architecture_overview.jpg?raw=true)
 
